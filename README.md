@@ -5,3 +5,4 @@ A test repository to practice GitHub operations and accumulate activity.
 ## Purpose
 - Learn GitHub basic functions
 - Accumulate valid GitHub activity records
+## Project Structure
