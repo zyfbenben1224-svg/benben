@@ -1,0 +1,4 @@
+#!/bin/bash
+# 检查 Android 模块加载状态
+echo "检查 LSPosed 模块状态..."
+adb shell su -c "ls /data/adb/modules/"
